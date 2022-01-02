@@ -5,7 +5,7 @@
 }
 
 body {
-	background-color: white;
+	background-color: rgb(47, 47, 47);
 	color: #fff;
 	display: flex;
 	font-family: 'Muli', sans-serif;
@@ -66,11 +66,11 @@ input[type=checkbox] {
 
 .btn {
 	border: none;
-	color: #fff;
+	color: rgb(0, 0, 0);
 	cursor: pointer;
 	font-size: 16px;
 	padding: 8px 12px;
-	background-color: #578ddd;
+	background-color: #00fbff;
 }
 
 .btn-large {
