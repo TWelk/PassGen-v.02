@@ -74,7 +74,7 @@ input[type=checkbox] {
     cursor: pointer;
     font-size: 16px;
     padding: 8px 12px;
-    background: linear-gradient(217deg, #0097fc, #6aecdb);
+    background: linear-gradient(217deg, #6aecdb, #0097fc);
     font-weight: bold;
 }
 
