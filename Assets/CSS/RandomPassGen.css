@@ -28,7 +28,7 @@ input[type=checkbox] {
 }
 
 .container {
-    background: linear-gradient(217deg, #39a050, #6de2a8);
+    background: linear-gradient(217deg, #0097fc, #6aecdb);
     box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
     padding: 20px;
     width: 375px;
